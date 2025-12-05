@@ -1,5 +1,7 @@
 # 6-7 Daily
 
+Further adventures in Vibe Coding.
+
 A daily trivia game where the goal is to hit the "Sweet Spot".
 
 ## How to Play
